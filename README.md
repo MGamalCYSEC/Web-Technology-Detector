@@ -32,8 +32,7 @@
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/web-technology-detector.git
-cd web-technology-detector
+git clone https://github.com/MGamalCYSEC/Web-Technology-Detector.git
 ```
 
 #### Run the Script
